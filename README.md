@@ -1,16 +1,24 @@
-## Hi there 👋
+## Olá, me chamo Brian 👋
 
-<!--
-**briancosta-px/briancosta-px** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atualmente, estou cursando **Engenharia de Software** na Unifil. Sou um entusiasta da área de tecnologia e tenho o objetivo de aprimorar meus conhecimentos nesta área e, se possível, adquirir um trabalho na área para descobrir no que quero me aprofundar.
 
-Here are some ideas to get you started:
+🔭 No momento, estou focado em aprender mais sobre **técnicas de programação** e melhorar minhas habilidades na codificação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🌱 Atualmente, estou aprendendo:
+
+- **Programação em Java e JavaScript**
+- **Desenvolvimento Web**
+- **Banco de dados usando PostgreSQL**
+
+
+### 🤝 Soft Skills
+
+- **Comunicação**;
+- **Trabalho em equipe**;
+- **Adaptabilidade**;
+- **Resolução de problemas**;
+- **Gestão de tempo**;
+
+## 🧐 Veja mais sobre mim e entre em contato comigo através do meu LinkedIn
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/brian-costa-211a02302)
